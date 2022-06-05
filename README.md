@@ -5,7 +5,6 @@
 A small patchable synthesizer. 
 
 Tech details:
-
 * uses jumper wires and pin headers for patching
 * CMOS-based circuitry
 * 3 oscillators with sync and weighted CV inputs
@@ -17,3 +16,11 @@ Tech details:
 * left and right mixers with weighted inputs
 * stereo output suitable for headphones
 * powered by a 9v battery (rechargeable NiMH recommended)
+
+BOM:
+* https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/
+
+Videos:
+* https://www.youtube.com/watch?v=ytJG46xOFfk
+* https://www.youtube.com/watch?v=ydb6eBDvvTU
+
