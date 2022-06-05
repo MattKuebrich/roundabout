@@ -1,6 +1,6 @@
-# roundabout
-
 ![roundabout3](https://user-images.githubusercontent.com/1854586/172068927-263c8054-6ef1-411d-a546-8c2ccda537c7.jpg)
+
+# roundabout
 
 A small patchable synthesizer. 
 
