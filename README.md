@@ -20,6 +20,9 @@ Tech details:
 BOM:
 * https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/
 
+Discussion:
+* https://llllllll.co/t/roundabout/
+
 Videos:
 * https://www.youtube.com/watch?v=ytJG46xOFfk
 * https://www.youtube.com/watch?v=ydb6eBDvvTU
