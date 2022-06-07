@@ -8,7 +8,7 @@ Tech details:
 * uses jumper wires and pin headers for patching
 * CMOS-based circuitry
 * 3 oscillators with sync and weighted CV inputs
-* 2 goofy state-vari able filters
+* 2 goofy state-variable filters
 * 2 frequency dividers
 * 2 4-bit shift registers
 * 4-bit R2R DAC
