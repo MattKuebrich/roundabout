@@ -1,5 +1,7 @@
 # roundabout v1.1 manual (in progress)
 
+<img src="https://github.com/MattKuebrich/roundabout/blob/main/images/roundabout_v1.1_board.jpg" width="500">
+
 # explanation of circuit blocks
 
 ### VCOs
