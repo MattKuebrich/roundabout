@@ -1,7 +1,5 @@
 # roundabout v1.1 manual (in progress)
 
-
-
 # explanation of circuit blocks
 
 ### VCOs
@@ -33,6 +31,13 @@ The DAC takes 4 binary inputs and generates a stepped voltage on the output. The
 Patch hint: Feeding the DAC with outputs from the divider section, then using that as CV for an oscillator will generate cool arpeggios.
 
 ## Shift Register
+There are 2, 4-bit shift registers. You patch a clock and data pulse into the shift register.
+
+On each clock pulse, if the data input is high, a 1 gets passed into the 1st register. If the data input is low, a 0 gets passed. With each successive pulse, the data gets moved down the registers.
+
+Patch hint: you can "loop" the register by patching the 4th register back into the data input.
+Patch hint2: you can get an 8-bit register by patching the 4th register or SR1 into the data input of SR2 and uses the same clock source for both shift registers.
+
 The shift register clock expects a clean square wave. When feeding it something else (like a triangle, saw or the output of the filter), it can behave inconsistantly, but sometimes that's *cool*. If you want it to work "properly", pass the offending signal through the /1 on the divider before going into the clock. This basically turns any signal into a square wave. 
 
 ## Mixer
@@ -40,6 +45,7 @@ Like the CV inputs, the mixer inputs provide increasing amplitude as you patch i
 
 ## Ground pins
 These allow you to connect multiple roundabouts together. 
+
 
 # Inspiration 
 I referenced, borrowed and learned from a variety of sources for this project. 
@@ -52,3 +58,6 @@ The logic blocks were largely inspired by the awesome ["Logic Noise" series of a
 
 # Design / Production
 The circuits were breadboarded and a few things simulated in [Falstad](https://www.falstad.com/circuit/). The PCB was designed in [EasyEDA](https://easyeda.com/) and printed at [JLCPCB](https://jlcpcb.com/). 
+
+# DIY modifications
+Todo...
