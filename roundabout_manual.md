@@ -33,6 +33,8 @@ The DAC takes 4 binary inputs and generates a stepped voltage on the output. The
 
 Patch tip: Feeding the DAC with outputs from the divider section, then using that as CV for an oscillator will generate cool arpeggios.
 
+Patch tip 2: You can use the DAC as an attenuator. You actually patch the signal you want attenuated into the right-most DAC output, then patch out of one of the 4 inputs, which will give you decreasing amounts of attenuation. The filter CV inputs, for example, aren’t weighted like the oscillator CV inputs. This is a way to attenuate the signal before patching into the filter CV. You can also use this as a weighted mixer. Olegtron did a great writeup about the different uses of a R2R in reference to their [R2R Eurorack module](https://www.olegtron.com/olegtron-r2r-1).
+
 ## Shift Register
 There are 2, 4-bit shift registers. You patch a clock and data pulse into the shift register.
 
