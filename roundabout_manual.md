@@ -26,7 +26,7 @@ Patch tip: You can get divisions of /32, /64/, /128 and /256 by patching the /16
 Patch tip: insert capacitors between divisions to create some swoooopy modulations. 
 
 ## Buffer
-This is just an extra buffer. It can be used to overdrive a signal or just buffer a weak signal. For example, the DAC isn't buffered and in certain situations could need to be passed through this buffer.
+This is just an extra buffer. It can be used to overdrive a signal or just buffer a weak signal. For example, the DAC isn't buffered and in certain situations could need to be passed through this buffer. The buffer is inverting, so can be used to generate an (overdriven) reverse sawtooth wave, for example.
 
 ## R2R DAC
 The DAC takes 4 binary inputs and generates a stepped voltage on the output. The 2 output pins are taken from different points in the R2R ladder, so they will be different, but related. 
