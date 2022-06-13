@@ -9,12 +9,14 @@ There are 3 VCOs, 1 with triangle and square outputs and 2 with saw outputs.
 
 The 4 CV inputs provide increasing levels of modulation, indicated by the white triangle above them. These won't track 1/V per octave. 
 
-Each VCO has 2 sync inputs, one uses a diode and the other an LED. They behave differently (the LED is a bit wilder). Remember: If the signal that's doing the sycning is faster than the oscillator being synced, you won't hear anything. Patch hint: Try patching into both sync inputs!
+Each VCO has 2 sync inputs, one uses a diode and the other an LED. They behave differently (the LED is a bit wilder). Remember: If the signal that's doing the sycning is faster than the oscillator being synced, you won't hear anything. 
+
+Patch hint: Try patching into both sync inputs!
 
 The "trisq" VCO is fast by default. You can patch the 2 points labeled "medium" or "slow" together to change the speed. It’s equivalent to a 3-way "range" switch. 
 
 ## Filter
-The filter section is probably the strangest part of the synth. You won't always need something plugged into the filter input, since the filter is very resonant when turned up. The potentiometers controls the resonance, while the cutoff is controlled by patching into the CV-A and CV-B inputs. These effect the 2 different stages of the filter. For the most typical filter behavior patch the same signal into both of them. There are lowpass, bandpass (2 of them), and highpass outputs. Both filters are the same except the 2nd one is tuned higher.
+The filter isn't really set up like a normal filter, so it's best just to experiment with it. The potentiometers controls the resonance, while the cutoff is controlled by patching into the CV-A and CV-B inputs. These effect the 2 different stages of the filter. For the most typical filter behavior patch the same signal into both of them. You won't always need something plugged into the filter input, since the filter is very resonant when turned up. There are lowpass, bandpass (2 of them), and highpass outputs. Both filters are the same except the 2nd one is tuned higher. 
 
 Patch tip: Patching the BP into the left mixer and the HP into the right mixer (from the same filter) can give you a nice stereo effect.
 
