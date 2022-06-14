@@ -73,5 +73,11 @@ When soldering, I usually starts with components that sit closest to the board f
 
 I've been using [recharchable 9v batteries](https://www.amazon.com/Tenergy-Charger-Premium-Rechargeable-Batteries/dp/B00461E85M) for power and they work great, just make sure they are the NiMH ones and NOT the LI-ON ones (they cause the circuit to make an annoying high pitched noise).
 
+# Other considerations
+
+* Patching roundabout with other gear hasn't been extensively tested, so proceed with caution there. It really was conceived as a self-contained instrument. The signal coming out of the stereo jack can get up to a max of ~4.2V p2p in my tests. The signal from the header outputs could get closer to 5V. 
+
+* I'm not an EE or anything, so I'm sure there are things someone with more knowledge would do differently. 
+
 # DIY modifications
 Todo...
