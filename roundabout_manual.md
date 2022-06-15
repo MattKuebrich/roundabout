@@ -80,4 +80,8 @@ I've been using [recharchable 9v batteries](https://www.amazon.com/Tenergy-Charg
 * I'm not an EE or anything, so I'm sure there are things someone with more knowledge would do differently. 
 
 # DIY modifications
-Todo...
+
+## 5V regulator thoughts (subject to change...)
+* Honestly, roundabout was designed using a full 9V to power it, with no regulator. I added the 5V regulator later to help with battery life, consistancy (the sound won't change as the battery is drained) and so the output wasn't so hot. But I still think it _sounds_ better at 9V, at least at the moment. You can run it at full 9V by leaving out the regulator and then bridging the top and bottom pads of the regulator footprint together with a wire. 
+
+WARNING: The stereo jack output then can reach ~6V p2p, so you should be cautious what gear you plug it into in case it can't handle those voltage levels. The monome Norns, for example, has a max limit of 5V p2p (as far as I know).
