@@ -18,7 +18,7 @@ Tech details:
 * powered by a 9v battery (rechargeable NiMH recommended)
 
 Manual (in progress):
-* https://github.com/MattKuebrich/roundabout/blob/main/roundabout_manual.md
+* https://github.com/MattKuebrich/roundabout/wiki
 
 BOM:
 * https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/
