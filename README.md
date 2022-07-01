@@ -22,6 +22,7 @@ Manual (in progress):
 
 BOM:
 * https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/
+* https://mattkuebrich.com/roundabout/ibom/ (iBOM)
 
 Discussion:
 * https://llllllll.co/t/roundabout/
