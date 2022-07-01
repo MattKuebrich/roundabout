@@ -21,7 +21,7 @@ Manual (in progress):
 * https://github.com/MattKuebrich/roundabout/wiki
 
 BOM:
-* https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/
+* https://docs.google.com/spreadsheets/d/1eRZ8_PK5HJ3nKBCjX_7MApqO0d7YXJZ0Co2NMGjRWOA/ (Use this when sourcing parts)
 * https://mattkuebrich.com/roundabout/ibom/ (iBOM)
 
 Discussion:
