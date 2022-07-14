@@ -28,6 +28,9 @@ A small patchable synthesizer.
 * https://llllllll.co/t/roundabout/
 
 **Videos:**
-* https://www.youtube.com/watch?v=ytJG46xOFfk
-* https://www.youtube.com/watch?v=ydb6eBDvvTU
+* ["rungler" style patch](https://www.youtube.com/watch?v=ytJG46xOFfk)
+* [roundabout patches](https://www.youtube.com/watch?v=ydb6eBDvvTU)
+* [roundabout (diy chaotic noisemaker)](https://www.youtube.com/watch?v=AI57evs5uT8) via faux cyrillic
+* [more roundabout](https://www.youtube.com/watch?v=UM-IDm9ta4I) via faux cyrillic
+
 
