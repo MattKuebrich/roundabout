@@ -30,7 +30,7 @@ A small patchable synthesizer.
 **Videos:**
 * ["rungler" style patch](https://www.youtube.com/watch?v=ytJG46xOFfk)
 * [roundabout patches](https://www.youtube.com/watch?v=ydb6eBDvvTU)
+* [roundabout battery drain shred sesh](https://www.instagram.com/p/CjZlV14uZ0S)
 * [roundabout (diy chaotic noisemaker)](https://www.youtube.com/watch?v=AI57evs5uT8) via faux cyrillic
 * [more roundabout](https://www.youtube.com/watch?v=UM-IDm9ta4I) via faux cyrillic
-
-
+* [rack mounted roundabout adaptation for AE Modular](https://www.youtube.com/watch?v=ZCjaIhYuOU8) via faux cyrillic
