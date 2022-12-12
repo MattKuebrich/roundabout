@@ -34,3 +34,4 @@ A small patchable synthesizer.
 * [roundabout (diy chaotic noisemaker)](https://www.youtube.com/watch?v=AI57evs5uT8) via faux cyrillic
 * [more roundabout](https://www.youtube.com/watch?v=UM-IDm9ta4I) via faux cyrillic
 * [rack mounted roundabout adaptation for AE Modular](https://www.youtube.com/watch?v=ZCjaIhYuOU8) via faux cyrillic
+* [roundabout + reverb/delay/EQ from Bluebox](https://www.youtube.com/watch?v=QeO15ffwOiM) via Keurslager Kurt
