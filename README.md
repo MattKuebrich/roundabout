@@ -17,7 +17,7 @@ A small patchable synthesizer.
 * stereo output suitable for headphones
 * powered by a 9v battery (rechargeable NiMH recommended)
 
-**Manual (in progress):**
+**Manual:**
 * https://github.com/MattKuebrich/roundabout/wiki
 
 **BOM:**
